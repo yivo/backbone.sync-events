@@ -1,0 +1,22 @@
+{
+    "name": "backbone.sync-events",
+    "description": "Additional events for Backbone.sync",
+    "version": "1.0.0",
+    "main": "lib/backbone.sync-events.js",
+    "authors": [
+        "Yaroslav Konoplov <the.yivo@gmail.com>"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*", "node_modules", "bower_components", "test", "tests"
+    ],
+    "dependencies": {
+        "backbone": "~1.1.2",
+        "underscore": "~1.7.0",
+        "jquery": "~2.1.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:yivo/backbone.sync-events.js.git"
+    }
+}
